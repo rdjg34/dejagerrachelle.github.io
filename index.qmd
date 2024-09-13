@@ -1,5 +1,5 @@
 ---
-title: "DSCI 521: Hello world!"
+title: "DSCI 521"
 ---
 
 This is a Quarto website.
